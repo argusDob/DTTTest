@@ -91,7 +91,7 @@ export default {
   mounted() {
     //if the list is empty trigger again the actions so the list
     //is not empty when refresh the page
-    if (this.$store.state.beers.length === 0) this.$store.dispatch("loadCoins");
+    if (this.$store.state.beers.length === 0) this.$store.dispatch("loadBeers");
 
     console.log(
       this.$store.state.beers.filter(beer => beer.id == this.$route.params.id)
