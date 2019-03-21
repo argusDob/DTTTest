@@ -1,6 +1,6 @@
 
 
-![home](https://imgur.com/YD58b2x)
+![home](https://i.imgur.com/YD58b2x.png)
 
 # vuexapi
 
