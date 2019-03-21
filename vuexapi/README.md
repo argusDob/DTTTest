@@ -1,9 +1,6 @@
 
 
-[img]https://i.imgur.com/YD58b2x.png[/img]
-<blockquote class="imgur-embed-pub" lang="en" data-id="YD58b2x"><a href="//imgur.com/YD58b2x">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-[Imgur](https://i.imgur.com/YD58b2x.png)
-[img]https://i.imgur.com/YD58b2x.png[/img]
+![home](https://imageshack.com/a/img921/7569/Ys2JK8.png)
 
 # vuexapi
 
