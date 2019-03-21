@@ -2,6 +2,10 @@
 
 ![home](https://i.imgur.com/YD58b2x.png)
 
+![about](https://i.imgur.com/79Lzb8W.png)
+
+![more](https://i.imgur.com/SNnhKc7.png)
+
 # vuexapi
 
 ## Project setup
