@@ -6,6 +6,10 @@
 
 ![more](https://i.imgur.com/SNnhKc7.png)
 
+![nav](https://i.imgur.com/tdxRJLe.png)
+
+
+
 # vuexapi
 
 ## Project setup
