@@ -1,4 +1,4 @@
-
+I have created a beer store and i have been using for the first time the VUE CLI ,componets ,routers and axios to share api sata with the components.
 
 ![home](https://i.imgur.com/YD58b2x.png)
 
