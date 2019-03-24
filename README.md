@@ -1,4 +1,4 @@
-# Amsterdam Beer Store
+# Amsterdam Beer Store(Argus Beers)
 
 ### Description
  I accepted a challenge from the DTT Multimedia to create a web site using the latest frontend technologies. I have fetched a third party API PUNK API that contains informations about beers. 
