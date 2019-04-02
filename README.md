@@ -25,7 +25,7 @@
 
 ![more](https://i.imgur.com/SNnhKc7.png)
 
-![nav](https://i.imgur.com/tdxRJLe.png)
+![navOne](https://i.imgur.com/tdxRJLe.png)
 
 
 
