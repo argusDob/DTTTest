@@ -3,7 +3,7 @@
 ### Description
  I accepted a challenge from the DTT Multimedia to create a web site using the latest frontend technologies. I have fetched a third party API PUNK API that contains informations about beers. 
  
- The website is full responsive for every device and  browser. The home page show ten products and i have implemented a sort for pagination ,so the user can show and hide ten beers per click.
+ The website is full responsive for every device and  browser. The home page show ten products and i have implemented a sort for pagination,so the user can show and hide ten beers per click.
  
   In addition the user can sort the beers by name. If the user click on each product the browser redirect him  to a detailed page  for each beer and he can see three relevant products.
   
