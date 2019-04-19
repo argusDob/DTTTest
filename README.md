@@ -1,7 +1,7 @@
 # Amsterdam Beer Store(Argus Beer Store)
 
 ### Description
- I accepted a challenge, from the DTT Multimedia to create a web site using the latest frontend technologies. I have fetched a third party API PUNK API that contains informations about beers. 
+ I accepted a challenge from the DTT Multimedia to create a web site using the latest frontend technologies. I have fetched a third party API PUNK API that contains informations about beers. 
  
  The website is full responsive for every device and  browser. The home page show ten products and i have implemented a sort for pagination,so the user can show and hide ten beers per click.
  
